@@ -10,7 +10,9 @@
   <ItemGroup>
     <PackageReference Include="chilkat-x64" Version="9.5.0.99" />
     <PackageReference Include="ChilkatNativeLib" Version="9.50.99" />
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
 </Project>
